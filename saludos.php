@@ -13,4 +13,3 @@ else{
     echo '<p> En realidad, esa es la respuesta a la pregunta final sobre la vida, el universo y todo lo demás. </p>';
 }
 
-
